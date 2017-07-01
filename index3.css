@@ -1,0 +1,33 @@
+body{
+	background-color: white;
+	background-image: url("https://www.askideas.com/media/23/Beagle-Puppy-Running.jpg");
+	background-attachment: fixed;
+}
+h2{
+	border: 2px solid green;
+	border-radius: 2px;
+	margin-left: 40px;
+	color: cyan;
+}
+.Capitals {
+	background-color: lightsalmon;
+	color: #87CEFA;
+}
+.Capital{
+	background-color: lightslategray;
+	color: green;
+
+}
+p {
+	border: 5px solid red;
+	border-radius: 10px;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-top: 80px;
+}
+
+th {
+	background-color: red;
+}
+
